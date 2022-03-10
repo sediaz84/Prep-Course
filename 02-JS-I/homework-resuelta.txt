@@ -1,0 +1,21 @@
+Homework
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ Las variables son bancos en blanco que se pueden llenar con datos, los cuales se pueden usar. Algunos pueden cambiar y otros solo se mantienen iguales, los que pueden cambiar les decimos var o let y los que se mantiene iguales los llamamos const(constantes)
+
+ Los String son cadenas de textos. Se escriben entre comillas " ", todo lo que vaya entre comillas seran String (texto), un ejemplo "Hola buenos dias", "Son 2 autos". Números dentro de comillas dejan de funcionar como numeros y palabras claves se convierten en texto.
+
+Las funciones es codigo ordenado, las cuales devuelven un resultado. Por ejemplo si queremos tener una funcion que se llame suma haremos una funcion que se llame suma, a la cual le damos dos datos en este caso dos numeros y la funcion automaticamente los suma y nos devuelve el resultado. Anteriormente hay que crear la funcion     function suma(num1, num2) { return num1 + num2; }   esta funcion podremos nos entregara el resultado de una suma de dos numeros y podremos usarla siempre que la necesitemos, hasta en otras funciones.
+
+Las declaraciones sirven para entregar un mensaje, un true/false o un resultado. Segun los datos que reciba condiciona el resultado ej, Si(if) pasa A, entrego 1 o Si(if) pasa B, entrego 2.
+
+Los valores booleanos nos sirven para saber si algo es verdadero o falso. Ejemplo Llueve si hay nubes grises, true, caso contrario es false.
+
+
